@@ -1,5 +1,5 @@
 # bulkMusicMail (B M M)
-> Get latest Music playlist in your mails.
+> Get latest Music playlist in your mails
 
 
 
